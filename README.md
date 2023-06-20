@@ -17,6 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![VueJS](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)

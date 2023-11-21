@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá a todos 👋
 
-## I'm Diego Alves Costa.
+## Eu sou o Diego Alves Costa.
 
-### 💻 &nbsp;About me 
+### 💻 &nbsp;Sobre me
 
 - 🤔 &nbsp; Explorando novas tecnologias e buscando sempre estar atualizado com as principais stacks de desenvolvimento.
 - 🎓 &nbsp; Pós-graduado em desenvolvimento web pelo IFSULDEMINAS - Campus Passos.

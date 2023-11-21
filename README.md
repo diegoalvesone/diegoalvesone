@@ -34,7 +34,7 @@
 
 
 
-## My Stats
+## Status
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoalvesone&show_icons=true&theme=radical" />
@@ -43,7 +43,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  🤝🏻 &nbsp;Conecte comigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/diegoalvescosta/"><img src="https://img.shields.io/badge/-Diego%20Alves%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>

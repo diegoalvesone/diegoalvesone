@@ -2,7 +2,7 @@
 
 ## Eu sou o Diego Alves Costa.
 
-### 💻 &nbsp;Sobre me
+### 💻 &nbsp;Sobre
 
 - 🤔 &nbsp; Explorando novas tecnologias e buscando sempre estar atualizado com as principais stacks de desenvolvimento.
 - 🎓 &nbsp; Pós-graduado em desenvolvimento web pelo IFSULDEMINAS - Campus Passos.
